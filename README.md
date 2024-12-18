@@ -1,4 +1,3 @@
-# This is README.md file. 
-# It contains description about the project. 
- “This is first commit”
-  “This commit is from master branch”
+# GitHubproject
+# The project will use Maven Java  
+# It will contain some Java code 
